@@ -1,0 +1,37 @@
+body{
+    background-color: rgb(104, 187, 255) ;
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+header{
+    color: aliceblue;
+    text-align: center;
+}
+
+section{
+    background-color: aliceblue;
+    border-radius: 8px;
+    padding: 15px;
+    width: 500px;
+    margin: auto;
+    box-shadow: 5px 5px 10px rgba(0, 0, 0, 0.450);
+}
+
+form input{
+    display: block;
+    padding: 5px;
+    margin-bottom: 10px;
+}
+
+#res{
+    margin: 10px;
+}
+
+#res img{
+    width: 25px;
+}
+
+footer{
+    color: aliceblue;
+    text-align: center;
+}
